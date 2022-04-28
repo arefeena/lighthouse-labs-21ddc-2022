@@ -1,0 +1,580 @@
+Category,Year,Make,Model
+Pickup,2020,Toyota,Tacoma Double Cab
+Coupe,2020,Toyota,GR Supra
+SUV,2020,Toyota,RAV4 Hybrid
+SUV,2020,Toyota,Sequoia
+Sedan,2020,Toyota,Corolla
+Sedan,2019,Toyota,Camry Hybrid
+Sedan,2020,Toyota,Camry Hybrid
+SUV,2020,Toyota,Highlander Hybrid
+Pickup,2020,Toyota,Tacoma Access Cab
+Sedan,2020,Toyota,Avalon
+SUV,2019,Toyota,RAV4
+Sedan,2019,Toyota,Mirai
+Sedan,2020,Toyota,Corolla Hybrid
+Sedan,2020,Toyota,Yaris
+SUV,2018,Toyota,4Runner
+SUV,2020,Toyota,Highlander
+SUV,2020,Toyota,4Runner
+Hatchback,2020,Toyota,Yaris Hatchback
+Hatchback,2020,Toyota,Corolla Hatchback
+SUV,2020,Toyota,RAV4
+Sedan,2019,Toyota,Avalon
+Pickup,2019,Toyota,Tacoma Access Cab
+Hatchback,2019,Toyota,Prius Prime
+Hatchback,2018,Toyota,Prius Prime
+Pickup,2020,Toyota,Tundra CrewMax
+Pickup,2019,Toyota,Tundra Double Cab
+Sedan,2018,Toyota,Camry Hybrid
+Hatchback,2017,Toyota,Prius
+SUV,2018,Toyota,Sequoia
+Sedan,2018,Toyota,Corolla
+SUV,2017,Toyota,Highlander Hybrid
+Sedan,2020,Toyota,Avalon Hybrid
+Coupe,2020,Toyota,86
+Hatchback,2020,Toyota,Prius
+SUV,2020,Toyota,C-HR
+Coupe,2019,Toyota,86
+SUV,2019,Toyota,C-HR
+Sedan,2019,Toyota,Avalon Hybrid
+Hatchback,2019,Toyota,Prius
+Van/Minivan,2019,Toyota,Sienna
+SUV,2019,Toyota,Highlander Hybrid
+Sedan,2019,Toyota,Yaris
+Hatchback,2018,Toyota,Yaris
+Hatchback,2017,Toyota,Prius Prime
+SUV,2018,Toyota,Highlander Hybrid
+Hatchback,2018,Toyota,Prius
+Sedan,2018,Toyota,Yaris iA
+Wagon,2017,Toyota,Prius v
+Hatchback,2018,Toyota,Prius c
+SUV,2017,Toyota,Land Cruiser
+Pickup,2017,Toyota,Tacoma Access Cab
+Sedan,2020,Toyota,Camry
+Hatchback,2020,Toyota,Prius Prime
+SUV,2020,Toyota,Land Cruiser
+Van/Minivan,2020,Toyota,Sienna
+Sedan,2019,Toyota,Corolla
+SUV,2019,Toyota,Highlander
+Pickup,2019,Toyota,Tacoma Double Cab
+Sedan,2019,Toyota,Camry
+SUV,2018,Toyota,C-HR
+Sedan,2018,Toyota,Camry
+SUV,2019,Toyota,Sequoia
+SUV,2017,Toyota,Highlander
+Sedan,2017,Toyota,Mirai
+Pickup,2018,Toyota,Tacoma Access Cab
+Pickup,2018,Toyota,Tundra CrewMax
+SUV,2017,Toyota,4Runner
+SUV,2017,Toyota,Sequoia
+Coupe,2017,Toyota,86
+SUV,2018,Toyota,RAV4 Hybrid
+Pickup,2017,Toyota,Tundra CrewMax
+Hatchback,2019,Toyota,Prius c
+Pickup,2020,Toyota,Tundra Double Cab
+Hatchback,2019,Toyota,Corolla Hatchback
+Sedan,2018,Toyota,Avalon
+SUV,2019,Toyota,4Runner
+Sedan,2018,Toyota,Mirai
+SUV,2019,Toyota,RAV4 Hybrid
+Sedan,2018,Toyota,Avalon Hybrid
+SUV,2017,Toyota,RAV4 Hybrid
+Sedan,2017,Toyota,Corolla
+Sedan,2017,Toyota,Avalon Hybrid
+Sedan,2017,Toyota,Avalon
+Pickup,2018,Toyota,Tundra Double Cab
+Hatchback,2017,Toyota,Corolla iM
+Van/Minivan,2017,Toyota,Sienna
+Pickup,2017,Toyota,Tundra Double Cab
+SUV,2019,Toyota,Land Cruiser
+Coupe,2018,Toyota,86
+Pickup,2019,Toyota,Tundra CrewMax
+SUV,2018,Toyota,Highlander
+SUV,2018,Toyota,Land Cruiser
+Van/Minivan,2018,Toyota,Sienna
+SUV,2018,Toyota,RAV4
+Pickup,2018,Toyota,Tacoma Double Cab
+Sedan,2017,Toyota,Camry Hybrid
+Pickup,2017,Toyota,Tacoma Double Cab
+SUV,2017,Toyota,RAV4
+Sedan,2017,Toyota,Camry
+Hatchback,2018,Toyota,Corolla iM
+Hatchback,2017,Toyota,Prius c
+Pickup,2017,Toyota,Tundra Regular Cab
+SUV,2016,Toyota,Sequoia
+Sedan,2016,Toyota,Mirai
+Hatchback,2016,Toyota,Prius
+Sedan,2016,Toyota,Corolla
+SUV,2016,Toyota,RAV4
+SUV,2016,Toyota,4Runner
+SUV,2016,Toyota,Land Cruiser
+Hatchback,2017,Toyota,Yaris
+Pickup,2016,Toyota,Tacoma Access Cab
+Sedan,2017,Toyota,Yaris iA
+Sedan,2016,Toyota,Avalon
+Pickup,2016,Toyota,Tundra Double Cab
+Hatchback,2016,Toyota,Prius c
+Pickup,2016,Toyota,Tundra CrewMax
+SUV,2015,Toyota,4Runner
+SUV,2016,Toyota,Highlander
+Sedan,2016,Toyota,Camry
+Pickup,2016,Toyota,Tacoma Double Cab
+Wagon,2016,Toyota,Prius v
+Van/Minivan,2016,Toyota,Sienna
+Pickup,2016,Toyota,Tundra Regular Cab
+Pickup,2015,Toyota,Tundra Double Cab
+Hatchback,2016,Toyota,Yaris
+Sedan,2015,Toyota,Camry
+SUV,2015,Toyota,RAV4
+SUV,2015,Toyota,Land Cruiser
+Sedan,2015,Toyota,Avalon
+Wagon,2015,Toyota,Prius v
+SUV,2015,Toyota,Sequoia
+SUV,2015,Toyota,Highlander
+Hatchback,2015,Toyota,Prius
+Van/Minivan,2015,Toyota,Sienna
+Hatchback,2015,Toyota,Prius c
+Pickup,2015,Toyota,Tundra CrewMax
+Hatchback,2015,Toyota,Prius Plug-in Hybrid
+Pickup,2015,Toyota,Tacoma Double Cab
+SUV,2014,Toyota,Highlander
+Pickup,2015,Toyota,Tundra Regular Cab
+Sedan,2014,Toyota,Avalon
+Sedan,2014,Toyota,Camry
+SUV,2014,Toyota,4Runner
+SUV,2014,Toyota,FJ Cruiser
+Hatchback,2015,Toyota,Yaris
+Wagon,2014,Toyota,Prius v
+SUV,2014,Toyota,Land Cruiser
+Sedan,2015,Toyota,Corolla
+SUV,2014,Toyota,RAV4
+Hatchback,2014,Toyota,Prius Plug-in Hybrid
+Hatchback,2014,Toyota,Prius
+Pickup,2014,Toyota,Tacoma Regular Cab
+Pickup,2014,Toyota,Tacoma Double Cab
+Wagon,2014,Toyota,Venza
+Pickup,2015,Toyota,Tacoma Access Cab
+Pickup,2014,Toyota,Tacoma Access Cab
+Sedan,2013,Toyota,Corolla
+SUV,2014,Toyota,Sequoia
+Hatchback,2014,Toyota,Yaris
+Wagon,2015,Toyota,Venza
+Sedan,2014,Toyota,Corolla
+Hatchback,2013,Toyota,Prius
+SUV,2013,Toyota,4Runner
+Pickup,2014,Toyota,Tundra CrewMax
+Pickup,2014,Toyota,Tundra Regular Cab
+SUV,2013,Toyota,FJ Cruiser
+Sedan,2013,Toyota,Camry
+Hatchback,2013,Toyota,Prius c
+Hatchback,2014,Toyota,Prius c
+Pickup,2013,Toyota,Tacoma Regular Cab
+Hatchback,2013,Toyota,Yaris
+SUV,2013,Toyota,Sequoia
+Van/Minivan,2014,Toyota,Sienna
+Sedan,2012,Toyota,Avalon
+SUV,2012,Toyota,FJ Cruiser
+Van/Minivan,2013,Toyota,Sienna
+Pickup,2014,Toyota,Tundra Double Cab
+Pickup,2013,Toyota,Tacoma Double Cab
+Pickup,2013,Toyota,Tundra CrewMax
+SUV,2012,Toyota,4Runner
+Wagon,2012,Toyota,Matrix
+SUV,2013,Toyota,Highlander
+SUV,2012,Toyota,RAV4
+Sedan,2012,Toyota,Camry
+Wagon,2013,Toyota,Matrix
+Pickup,2013,Toyota,Tundra Double Cab
+Wagon,2013,Toyota,Prius v
+Pickup,2013,Toyota,Tacoma Access Cab
+SUV,2013,Toyota,RAV4
+SUV,2013,Toyota,Venza
+SUV,2012,Toyota,Highlander
+Hatchback,2013,Toyota,Prius Plug-in Hybrid
+SUV,2013,Toyota,Land Cruiser
+Sedan,2013,Toyota,Avalon
+SUV,2012,Toyota,Sequoia
+Hatchback,2012,Toyota,Prius c
+Pickup,2013,Toyota,Tundra Regular Cab
+Wagon,2012,Toyota,Prius v
+Hatchback,2012,Toyota,Prius Plug-in Hybrid
+Sedan,2012,Toyota,Corolla
+Hatchback,2012,Toyota,Prius
+Van/Minivan,2012,Toyota,Sienna
+Pickup,2012,Toyota,Tundra CrewMax
+Pickup,2012,Toyota,Tacoma Access Cab
+Pickup,2012,Toyota,Tacoma Regular Cab
+Pickup,2012,Toyota,Tacoma Double Cab
+Pickup,2012,Toyota,Tundra Regular Cab
+SUV,2011,Toyota,4Runner
+Sedan,2011,Toyota,Avalon
+Pickup,2012,Toyota,Tundra Double Cab
+SUV,2011,Toyota,Highlander
+SUV,2011,Toyota,Sequoia
+"Hatchback, Sedan",2012,Toyota,Yaris
+Wagon,2012,Toyota,Venza
+SUV,2011,Toyota,FJ Cruiser
+Sedan,2011,Toyota,Corolla
+SUV,2010,Toyota,4Runner
+SUV,2011,Toyota,RAV4
+Pickup,2011,Toyota,Tacoma Double Cab
+SUV,2011,Toyota,Land Cruiser
+Wagon,2011,Toyota,Venza
+Pickup,2011,Toyota,Tacoma Access Cab
+Sedan,2011,Toyota,Camry
+Wagon,2011,Toyota,Matrix
+Pickup,2011,Toyota,Tacoma Regular Cab
+Pickup,2011,Toyota,Tundra CrewMax
+Hatchback,2011,Toyota,Prius
+Van/Minivan,2011,Toyota,Sienna
+Sedan,2010,Toyota,Corolla
+Pickup,2011,Toyota,Tundra Double Cab
+Sedan,2009,Toyota,Corolla
+SUV,2010,Toyota,Highlander
+SUV,2010,Toyota,FJ Cruiser
+SUV,2010,Toyota,Sequoia
+Hatchback,2010,Toyota,Prius
+Pickup,2010,Toyota,Tundra Double Cab
+Pickup,2010,Toyota,Tacoma Access Cab
+Van/Minivan,2010,Toyota,Sienna
+Sedan,2010,Toyota,Camry
+Pickup,2011,Toyota,Tundra Regular Cab
+Wagon,2010,Toyota,Matrix
+Pickup,2010,Toyota,Tacoma Double Cab
+Wagon,2010,Toyota,Venza
+"Hatchback, Sedan",2011,Toyota,Yaris
+Sedan,2010,Toyota,Avalon
+Pickup,2010,Toyota,Tacoma Regular Cab
+Pickup,2010,Toyota,Tundra CrewMax
+SUV,2009,Toyota,4Runner
+SUV,2010,Toyota,RAV4
+SUV,2010,Toyota,Land Cruiser
+SUV,2009,Toyota,Highlander
+Pickup,2010,Toyota,Tundra Regular Cab
+SUV,2009,Toyota,Sequoia
+Wagon,2009,Toyota,Venza
+Sedan,2009,Toyota,Avalon
+Hatchback,2009,Toyota,Prius
+Pickup,2009,Toyota,Tundra CrewMax
+SUV,2008,Toyota,4Runner
+"Sedan, Hatchback",2010,Toyota,Yaris
+SUV,2009,Toyota,FJ Cruiser
+Pickup,2009,Toyota,Tacoma Double Cab
+Sedan,2009,Toyota,Camry
+SUV,2009,Toyota,Land Cruiser
+SUV,2009,Toyota,RAV4
+Van/Minivan,2009,Toyota,Sienna
+Sedan,2008,Toyota,Corolla
+Hatchback,2008,Toyota,Prius
+Pickup,2009,Toyota,Tacoma Regular Cab
+Pickup,2009,Toyota,Tacoma Access Cab
+Pickup,2008,Toyota,Tundra Regular Cab
+Pickup,2009,Toyota,Tundra Regular Cab
+Pickup,2008,Toyota,Tacoma Access Cab
+Pickup,2009,Toyota,Tundra Double Cab
+SUV,2008,Toyota,RAV4
+"Hatchback, Sedan",2009,Toyota,Yaris
+Wagon,2009,Toyota,Matrix
+SUV,2008,Toyota,Highlander
+SUV,2008,Toyota,FJ Cruiser
+Sedan,2008,Toyota,Avalon
+SUV,2008,Toyota,Sequoia
+Sedan,2008,Toyota,Camry
+SUV,2007,Toyota,4Runner
+Pickup,2008,Toyota,Tacoma Regular Cab
+SUV,2008,Toyota,Land Cruiser
+Van/Minivan,2008,Toyota,Sienna
+Sedan,2007,Toyota,Corolla
+SUV,2007,Toyota,Highlander
+Wagon,2008,Toyota,Matrix
+Hatchback,2007,Toyota,Prius
+SUV,2007,Toyota,FJ Cruiser
+SUV,2007,Toyota,Sequoia
+Sedan,2007,Toyota,Camry
+Sedan,2007,Toyota,Avalon
+"Hatchback, Sedan",2008,Toyota,Yaris
+SUV,2007,Toyota,Land Cruiser
+Pickup,2008,Toyota,Tacoma Double Cab
+Pickup,2008,Toyota,Tundra CrewMax
+Pickup,2008,Toyota,Tundra Double Cab
+"Coupe, Convertible",2008,Toyota,Solara
+SUV,2007,Toyota,RAV4
+Wagon,2007,Toyota,Matrix
+Van/Minivan,2007,Toyota,Sienna
+"Convertible, Coupe",2007,Toyota,Solara
+Pickup,2007,Toyota,Tacoma Access Cab
+Sedan,2006,Toyota,Corolla
+Pickup,2007,Toyota,Tacoma Regular Cab
+Pickup,2007,Toyota,Tundra Regular Cab
+Pickup,2007,Toyota,Tacoma Double Cab
+SUV,2006,Toyota,RAV4
+SUV,2006,Toyota,Highlander
+Pickup,2007,Toyota,Tundra CrewMax
+Sedan,2006,Toyota,Avalon
+"Hatchback, Sedan",2007,Toyota,Yaris
+SUV,2006,Toyota,Land Cruiser
+Pickup,2007,Toyota,Tundra Double Cab
+Sedan,2006,Toyota,Camry
+SUV,2006,Toyota,Sequoia
+Van/Minivan,2006,Toyota,Sienna
+SUV,2006,Toyota,4Runner
+Pickup,2006,Toyota,Tundra Access Cab
+Wagon,2006,Toyota,Matrix
+Hatchback,2006,Toyota,Prius
+Pickup,2006,Toyota,Tacoma Regular Cab
+Pickup,2006,Toyota,Tacoma Double Cab
+Pickup,2006,Toyota,Tacoma Access Cab
+"Coupe, Convertible",2006,Toyota,Solara
+Sedan,2005,Toyota,Camry
+SUV,2005,Toyota,4Runner
+Sedan,2005,Toyota,Avalon
+Pickup,2006,Toyota,Tundra Double Cab
+Sedan,2005,Toyota,Echo
+SUV,2005,Toyota,Land Cruiser
+Pickup,2005,Toyota,Tundra Regular Cab
+SUV,2005,Toyota,Sequoia
+SUV,2005,Toyota,Highlander
+"Coupe, Convertible",2005,Toyota,Solara
+Sedan,2004,Toyota,Avalon
+SUV,2004,Toyota,4Runner
+Pickup,2006,Toyota,Tundra Regular Cab
+Wagon,2005,Toyota,Matrix
+Hatchback,2005,Toyota,Celica
+Pickup,2005,Toyota,Tacoma Access Cab
+Pickup,2005,Toyota,Tacoma Double Cab
+Sedan,2004,Toyota,Corolla
+Pickup,2004,Toyota,Tacoma Double Cab
+Hatchback,2005,Toyota,Prius
+Van/Minivan,2005,Toyota,Sienna
+Sedan,2005,Toyota,Corolla
+Sedan,2004,Toyota,Echo
+SUV,2004,Toyota,RAV4
+SUV,2005,Toyota,RAV4
+Pickup,2005,Toyota,Tacoma Regular Cab
+Sedan,2004,Toyota,Prius
+Sedan,2004,Toyota,Camry
+Convertible,2005,Toyota,MR2
+SUV,2004,Toyota,Highlander
+Pickup,2005,Toyota,Tundra Access Cab
+Pickup,2005,Toyota,Tundra Double Cab
+Convertible,2004,Toyota,MR2
+Hatchback,2004,Toyota,Celica
+SUV,2004,Toyota,Sequoia
+"Coupe, Convertible",2004,Toyota,Solara
+Van/Minivan,2004,Toyota,Sienna
+Pickup,2004,Toyota,Tundra Regular Cab
+Pickup,2004,Toyota,Tacoma Regular Cab
+Hatchback,2003,Toyota,Celica
+Pickup,2004,Toyota,Tundra Double Cab
+Pickup,2004,Toyota,Tacoma Xtracab
+SUV,2003,Toyota,4Runner
+Wagon,2003,Toyota,Matrix
+Van/Minivan,2003,Toyota,Sienna
+Sedan,2003,Toyota,Echo
+SUV,2004,Toyota,Land Cruiser
+Pickup,2004,Toyota,Tundra Access Cab
+"Hatchback, Wagon",2004,Toyota,Matrix
+Sedan,2003,Toyota,Corolla
+Convertible,2003,Toyota,MR2
+Sedan,2003,Toyota,Prius
+"Coupe, Convertible",2003,Toyota,Solara
+Sedan,2003,Toyota,Avalon
+SUV,2003,Toyota,RAV4
+Sedan,2003,Toyota,Camry
+SUV,2003,Toyota,Sequoia
+Pickup,2003,Toyota,Tundra Access Cab
+Sedan,2002,Toyota,Corolla
+SUV,2003,Toyota,Land Cruiser
+Pickup,2003,Toyota,Tacoma Double Cab
+SUV,2003,Toyota,Highlander
+Pickup,2003,Toyota,Tundra Regular Cab
+SUV,2002,Toyota,4Runner
+Convertible,2002,Toyota,MR2
+Hatchback,2002,Toyota,Celica
+Sedan,2002,Toyota,Prius
+Sedan,2002,Toyota,Camry
+SUV,2002,Toyota,RAV4
+Pickup,2003,Toyota,Tacoma Regular Cab
+"Sedan, Coupe",2002,Toyota,Echo
+Sedan,2002,Toyota,Avalon
+Pickup,2003,Toyota,Tacoma Xtracab
+SUV,2002,Toyota,Highlander
+SUV,2002,Toyota,Land Cruiser
+Van/Minivan,2002,Toyota,Sienna
+Sedan,2001,Toyota,Prius
+SUV,2001,Toyota,Highlander
+"Coupe, Convertible",2002,Toyota,Solara
+Pickup,2002,Toyota,Tundra Access Cab
+SUV,2001,Toyota,4Runner
+SUV,2001,Toyota,Land Cruiser
+Sedan,2001,Toyota,Corolla
+Pickup,2002,Toyota,Tacoma Regular Cab
+Pickup,2002,Toyota,Tundra Regular Cab
+SUV,2002,Toyota,Sequoia
+Hatchback,2001,Toyota,Celica
+Sedan,2001,Toyota,Avalon
+SUV,2001,Toyota,Sequoia
+Pickup,2002,Toyota,Tacoma Double Cab
+Pickup,2002,Toyota,Tacoma Xtracab
+"Coupe, Sedan",2001,Toyota,Echo
+Sedan,2001,Toyota,Camry
+Pickup,2001,Toyota,Tundra Regular Cab
+Sedan,2000,Toyota,Avalon
+Sedan,2000,Toyota,Camry
+Pickup,2001,Toyota,Tundra Access Cab
+SUV,2001,Toyota,RAV4
+Van/Minivan,2001,Toyota,Sienna
+Pickup,2001,Toyota,Tacoma Xtracab
+Pickup,2001,Toyota,Tacoma Regular Cab
+Convertible,2001,Toyota,MR2
+"Coupe, Convertible",2001,Toyota,Solara
+Sedan,2000,Toyota,Corolla
+Hatchback,2000,Toyota,Celica
+Convertible,2000,Toyota,MR2
+Pickup,2001,Toyota,Tacoma Double Cab
+"Sedan, Coupe",2000,Toyota,Echo
+SUV,2000,Toyota,Land Cruiser
+SUV,2000,Toyota,4Runner
+"Coupe, Convertible",2000,Toyota,Solara
+Pickup,2000,Toyota,Tundra Regular Cab
+Pickup,2000,Toyota,Tacoma Regular Cab
+SUV,2000,Toyota,RAV4
+Van/Minivan,2000,Toyota,Sienna
+SUV,1999,Toyota,RAV4
+Sedan,1999,Toyota,Avalon
+Sedan,1999,Toyota,Camry
+Pickup,2000,Toyota,Tacoma Xtracab
+Van/Minivan,1999,Toyota,Sienna
+SUV,1999,Toyota,Land Cruiser
+SUV,1999,Toyota,4Runner
+Sedan,1998,Toyota,Avalon
+Pickup,1998,Toyota,Tacoma Regular Cab
+Pickup,1999,Toyota,Tacoma Regular Cab
+Van/Minivan,1998,Toyota,Sienna
+"Hatchback, Convertible",1999,Toyota,Celica
+SUV,1998,Toyota,Land Cruiser
+Pickup,1999,Toyota,Tacoma Xtracab
+SUV,1998,Toyota,RAV4
+Pickup,2000,Toyota,Tundra Access Cab
+Coupe,1999,Toyota,Solara
+Sedan,1997,Toyota,Camry
+Sedan,1999,Toyota,Corolla
+SUV,1997,Toyota,4Runner
+Sedan,1998,Toyota,Camry
+SUV,1998,Toyota,4Runner
+"Coupe, Hatchback, Convertible",1998,Toyota,Celica
+Pickup,1998,Toyota,T100 Regular Cab
+Sedan,1998,Toyota,Corolla
+SUV,1997,Toyota,Land Cruiser
+Van/Minivan,1997,Toyota,Previa
+Pickup,1998,Toyota,Tacoma Xtracab
+Sedan,1997,Toyota,Corolla
+Pickup,1998,Toyota,T100 Xtracab
+Sedan,1997,Toyota,Avalon
+"Hatchback, Coupe, Convertible",1997,Toyota,Celica
+Sedan,1998,Toyota,Tercel
+Hatchback,1998,Toyota,Supra
+Pickup,1997,Toyota,T100 Regular Cab
+Pickup,1997,Toyota,Tacoma Regular Cab
+Van/Minivan,1996,Toyota,Previa
+Pickup,1997,Toyota,T100 Xtracab
+Pickup,1997,Toyota,Tacoma Xtracab
+"Hatchback, Convertible",1997,Toyota,Paseo
+SUV,1996,Toyota,Land Cruiser
+"Sedan, Coupe, Wagon",1996,Toyota,Camry
+SUV,1997,Toyota,RAV4
+SUV,1996,Toyota,4Runner
+Pickup,1996,Toyota,Tacoma Xtracab
+Pickup,1996,Toyota,Tacoma Regular Cab
+Hatchback,1997,Toyota,Supra
+Sedan,1996,Toyota,Avalon
+Pickup,1996,Toyota,T100 Regular Cab
+SUV,1996,Toyota,RAV4
+Sedan,1997,Toyota,Tercel
+Hatchback,1996,Toyota,Supra
+"Sedan, Wagon",1996,Toyota,Corolla
+"Sedan, Coupe, Wagon",1995,Toyota,Camry
+SUV,1995,Toyota,4Runner
+Sedan,1995,Toyota,Avalon
+Coupe,1996,Toyota,Paseo
+"Hatchback, Convertible, Coupe",1996,Toyota,Celica
+Pickup,1996,Toyota,T100 Xtracab
+Sedan,1996,Toyota,Tercel
+"Hatchback, Convertible, Coupe",1995,Toyota,Celica
+"Sedan, Wagon",1995,Toyota,Corolla
+Hatchback,1995,Toyota,MR2
+Hatchback,1995,Toyota,Supra
+Coupe,1995,Toyota,Paseo
+Pickup,1995,Toyota,Tacoma Regular Cab
+SUV,1995,Toyota,Land Cruiser
+Van/Minivan,1995,Toyota,Previa
+Pickup,1995,Toyota,T100 Regular Cab
+SUV,1994,Toyota,4Runner
+Pickup,1995,Toyota,Regular Cab
+Pickup,1995,Toyota,Tacoma Xtracab
+Sedan,1995,Toyota,Tercel
+Pickup,1995,Toyota,T100 Xtracab
+Pickup,1995,Toyota,Xtra Cab
+Coupe,1994,Toyota,Paseo
+Sedan,1994,Toyota,Tercel
+Pickup,1994,Toyota,T100 Regular Cab
+SUV,1994,Toyota,Land Cruiser
+"Hatchback, Coupe",1994,Toyota,Celica
+Pickup,1994,Toyota,Xtra Cab
+Coupe,1994,Toyota,MR2
+"Coupe, Wagon, Sedan",1994,Toyota,Camry
+"Sedan, Wagon",1994,Toyota,Corolla
+Van/Minivan,1994,Toyota,Previa
+"Coupe, Hatchback, Convertible",1993,Toyota,Celica
+Hatchback,1994,Toyota,Supra
+Pickup,1994,Toyota,Regular Cab
+"Sedan, Wagon",1993,Toyota,Corolla
+Hatchback,1993,Toyota,Supra
+"Coupe, Sedan",1993,Toyota,Tercel
+Coupe,1993,Toyota,MR2
+"Coupe, Convertible, Hatchback",1992,Toyota,Celica
+Pickup,1992,Toyota,Regular Cab
+Van/Minivan,1993,Toyota,Previa
+SUV,1993,Toyota,4Runner
+"Wagon, Sedan",1993,Toyota,Camry
+Sedan,1992,Toyota,Cressida
+SUV,1993,Toyota,Land Cruiser
+Coupe,1992,Toyota,Paseo
+SUV,1992,Toyota,Land Cruiser
+Coupe,1993,Toyota,Paseo
+Sedan,1992,Toyota,Tercel
+Pickup,1993,Toyota,T100 Regular Cab
+SUV,1992,Toyota,4Runner
+Pickup,1993,Toyota,Regular Cab
+Hatchback,1992,Toyota,Supra
+"Sedan, Wagon",1992,Toyota,Camry
+Van/Minivan,1992,Toyota,Previa
+Pickup,1993,Toyota,Xtra Cab
+"Sedan, Wagon",1992,Toyota,Corolla
+Coupe,1992,Toyota,MR2
+Pickup,1992,Toyota,Xtra Cab
+Sedan,2021,Toyota,Avalon
+SUV,2021,Toyota,4Runner
+Hatchback,2021,Toyota,Prius Prime
+SUV,2021,Toyota,RAV4
+Sedan,2021,Toyota,Camry
+SUV,2021,Toyota,C-HR
+SUV,2021,Toyota,RAV4 Prime
+Sedan,2021,Toyota,Corolla Hybrid
+SUV,2021,Toyota,RAV4 Hybrid
+SUV,2021,Toyota,Land Cruiser
+SUV,2021,Toyota,Highlander Hybrid
+Pickup,2021,Toyota,Tacoma Access Cab
+Hatchback,2021,Toyota,Prius
+Sedan,2021,Toyota,Avalon Hybrid
+SUV,2021,Toyota,Sequoia
+Van/Minivan,2021,Toyota,Sienna
+Hatchback,2021,Toyota,Corolla Hatchback
+SUV,2021,Toyota,Highlander
+Sedan,2021,Toyota,Camry Hybrid
+Coupe,2021,Toyota,GR Supra
+Sedan,2021,Toyota,Corolla
+Pickup,2021,Toyota,Tacoma Double Cab
+Pickup,2021,Toyota,Tundra Double Cab
+Pickup,2021,Toyota,Tundra CrewMax
+SUV,2021,Toyota,Venza
